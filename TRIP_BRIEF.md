@@ -1,13 +1,13 @@
 # Fall Foliage Trip Brief
 
-Comparison of three fall foliage candidates: Acadia National Park (ME), Shenandoah National Park (VA), and Great Smoky Mountains National Park (TN/NC border).
+Comparison of three fall foliage destinations: Acadia National Park (Maine), Shenandoah National Park (Virginia), and Great Smoky Mountains National Park (TN/NC border).
 
 ---
 
 ## 1. Acadia National Park, Maine
 
 **Official description:**
-Acadia National Park protects the natural beauty of the highest rocky headlands along the Atlantic coastline of the United States, an abundance of habitats, and a rich cultural heritage. At 4 million visits a year, it's one of the top 10 most-visited national parks in the United States. Visitors enjoy 27 miles of historic motor roads, 158 miles of hiking trails, and 45 miles of carriage roads.
+Acadia National Park protects the natural beauty of the highest rocky headlands along the Atlantic coastline of the United States, an abundance of habitats, and a rich cultural heritage. At 4 million visits a year, it is one of the top 10 most-visited national parks in the United States. Visitors enjoy 27 miles of historic motor roads, 158 miles of hiking trails, and 45 miles of carriage roads.
 
 **Current alerts / closures:**
 - Eastern Section of Beech Mountain Loop Trail Closed for Repairs (starting Sept 21, 2026) — closed from junction just beyond parking lot to just below the summit at the fire tower. Three alternate routes to the summit are available: the outer loop of the Beech Mountain Loop Trail, Beech South Ridge Trail, and Beech West Ridge Trail. (Park Closure, last updated 9/30/2026)
@@ -50,7 +50,7 @@ Ridge upon ridge of forest straddles the border between North Carolina and Tenne
 - Seasonal road closures: Heintooga Ridge Road, Parson Branch Road, and Rich Mountain Road are closed for the season.
 - Park Headquarters Road is closed due to rehabilitation work on the Sugarlands water and wastewater systems.
 - Straight Fork and the one-way section of Balsam Mountain Road (Heintooga Round-Bottom Road) are closed.
-- Information: Most visitors need a parking tag for parking longer than 15 minutes.
+- Information: Most visitors need a parking tag for parking longer than 15 minutes (Daily $5, Weekly $15, Annual $40).
 
 **Events over the next month:**
 - Down on the Farm — Nov 23-27, Nov 30-Dec 11, 2026 (Mountain Farm Museum)
